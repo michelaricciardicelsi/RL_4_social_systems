@@ -7,7 +7,7 @@ This project explores how an adaptive reinforcement learning (RL) agent behaves 
 The central question:
 > *What happens when decisions affect not only immediate outcomes but also future uncertainties by reshaping the environment itself?*
 
-Model a **polarized population** and train an RL agent to manage the evolving landscape of opinions, observing feedback loops and polarization dynamics.
+Model a **polarized population** and train a RL agent to manage the evolving landscape of opinions, observing feedback loops and polarization dynamics.
 
 ---
 
